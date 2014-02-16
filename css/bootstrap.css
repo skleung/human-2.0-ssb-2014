@@ -4807,7 +4807,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar-inverse .brand,
 .navbar-inverse .nav > li > a {
-  color: #999999;
+  color: #000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
@@ -4815,7 +4815,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-inverse .nav > li > a:hover,
 .navbar-inverse .brand:focus,
 .navbar-inverse .nav > li > a:focus {
-  color: #ffffff;
+  color: #dd2300;
 }
 
 .navbar-inverse .brand {
@@ -4823,12 +4823,12 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar-inverse .navbar-text {
-  color: #999999;
+  color: #000;
 }
 
 .navbar-inverse .nav > li > a:focus,
 .navbar-inverse .nav > li > a:hover {
-  color: #ffffff;
+  color: #dd2300;
   background-color: transparent;
 }
 
