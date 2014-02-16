@@ -6,6 +6,7 @@ $(window).resize(function() {
 });
 
 $(document).ready(function(){
+	alert("hi");
 	//Scrolling animation
 	$(".scroll").click(function(event){
 		event.preventDefault();
