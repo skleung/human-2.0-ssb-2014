@@ -70,7 +70,6 @@ body{
     -webkit-animation: fadein 7s; /* Safari and Chrome */
     -o-animation: fadein 7s; /* Opera */
 }
-
 @keyframes fadein {
     from {
         opacity:0;
@@ -129,6 +128,17 @@ body{
 		}
 	}
 }
+.schedule{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+table{
+	margin: auto;
+	td{
+		text-align: left;
+		padding: 10px;
+	}
+}
 .wrapper{
 	width: 80%;
 	background-color: white;
@@ -151,7 +161,30 @@ body{
 		height: auto;
 	}
 }
+.lg-logo{
+	img{
+		width: 200px;
+		height: auto;
+	
 
+		opacity: 0.5;
+		filter: alpha(opacity=50);
+		vertical-align: middle;
+		filter: grayscale(100%);
+		-webkit-filter: grayscale(100%);
+		-ms-filter: grayscale(100%);
+		-o-filter: grayscale(100%);
+		filter: gray;
+		-webkit-filter: grayscale(1);
+	}
+	img:hover{
+		filter: none;
+		opacity: 1;
+		-webkit-filter: grayscale(0%);
+		-ms-filter: grayscale(0%);
+		-o-filter: grayscale(0%);
+	}
+}
 #ssb-logo{
 	width: 324px;
 	height: auto;
