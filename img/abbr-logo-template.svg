@@ -54,6 +54,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:none"
+       id="rect3111"
+       width="511.76132"
+       height="436.5318"
+       x="108.57143"
+       y="158.07646"
+       ry="54.285713"
+       rx="0" />
     <text
        xml:space="preserve"
        style="font-size:116.44384766px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -61,7 +70,10 @@
        y="315.00565"
        id="text2985"
        sodipodi:linespacing="125%"
-       transform="scale(0.84286146,1.1864346)"><tspan
+       transform="scale(0.84286146,1.1864346)"
+       inkscape:export-filename="C:\Users\skleung\Documents\GitHub\human-2.0-ssb-2014\img\logo-abbr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2987"
          x="469.48743"
@@ -69,17 +81,20 @@
          style="font-style:normal;fill:#ff0000">2.0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:57.87123489px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lora;-inkscape-font-specification:Lora"
-       x="155.11337"
-       y="332.08441"
+       style="font-size:60.03179932px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lora;-inkscape-font-specification:Lora"
+       x="155.16725"
+       y="324.3389"
        id="text2991"
        sodipodi:linespacing="125%"
-       transform="scale(0.86855854,1.1513329)"><tspan
+       transform="scale(0.8487959,1.1781395)"
+       inkscape:export-filename="C:\Users\skleung\Documents\GitHub\human-2.0-ssb-2014\img\logo-abbr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2993"
-         x="155.11337"
-         y="332.08441"
-         style="font-size:208.3364563px;fill:#000000;font-family:sans;-inkscape-font-specification:sans">hu</tspan></text>
+         x="155.16725"
+         y="324.3389"
+         style="font-size:216.11448669px;fill:#000000;font-family:sans;-inkscape-font-specification:sans">hu</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28.78301048px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lora;-inkscape-font-specification:Lora"
@@ -87,7 +102,10 @@
        y="372.68515"
        id="text2995"
        sodipodi:linespacing="125%"
-       transform="scale(0.99176744,1.0083009)"><tspan
+       transform="scale(0.99176744,1.0083009)"
+       inkscape:export-filename="C:\Users\skleung\Documents\GitHub\human-2.0-ssb-2014\img\logo-abbr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2997"
          x="341.90671"
@@ -100,10 +118,24 @@
        y="460.51065"
        id="text3018"
        sodipodi:linespacing="125%"
-       transform="scale(0.84326323,1.1858693)"><tspan
+       transform="scale(0.84326323,1.1858693)"
+       inkscape:export-filename="C:\Users\skleung\Documents\GitHub\human-2.0-ssb-2014\img\logo-abbr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3020"
          x="154.11337"
          y="460.51065">man</tspan></text>
+    <rect
+       style="fill:none"
+       id="rect3121"
+       width="448.57144"
+       height="448.57144"
+       x="142.85715"
+       y="146.6479"
+       ry="54.285713"
+       inkscape:export-filename="C:\Users\skleung\Documents\GitHub\human-2.0-ssb-2014\img\logo-abbr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
