@@ -234,6 +234,9 @@ a:hover {
   font-weight: bold;
   text-transform: uppercase;
 }
+.action-buttons {
+  margin-top: 5px;
+}
 .inner-nav {
   padding-top: 10px;
   width: 90%;
@@ -243,7 +246,7 @@ a:hover {
   margin-top: 0px;
   width: 100%;
   height: 600px;
-  background: url('../img/bg.jpg') no-repeat center center;
+  background: url('../mg/bg.jpg') no-repeat center center;
   background-position: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
