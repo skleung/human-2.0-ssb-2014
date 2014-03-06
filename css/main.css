@@ -246,7 +246,7 @@ a:hover {
   margin-top: 0px;
   width: 100%;
   height: 600px;
-  background: url('../img/bg.jpg') no-repeat center center;
+  background: url('../mg/bg.jpg') no-repeat center center;
   background-position: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -296,7 +296,6 @@ a:hover {
 }
 .img-keynote {
   width: auto;
-  height: 300px;
   margin: auto;
 }
 .img-big-container {
@@ -305,7 +304,6 @@ a:hover {
 }
 .img-speaker {
   width: auto;
-  height: 200px;
   margin: auto;
 }
 .col-md-6 {
