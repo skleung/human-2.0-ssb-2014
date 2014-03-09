@@ -168,6 +168,10 @@ table td {
   width: 80px;
   height: auto;
 }
+.guidelines p {
+  font-size: 16px;
+  line-height: 120%;
+}
 .lg-logo img {
   width: 200px;
   height: auto;
