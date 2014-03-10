@@ -110,6 +110,9 @@ body {
   max-width: 760px;
   margin: auto;
 }
+#about-schedule {
+  margin-top: 0px;
+}
 .about {
   margin-top: 8%;
   line-height: 40px;
@@ -135,17 +138,20 @@ body {
   font-family: helvetica;
   font-size: 40px;
 }
-.schedule {
-  margin-top: 20px;
+#schedule {
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 table {
+  margin-top: 20px;
   margin: auto;
-  font-size: 20px;
+  font-size: 18px;
+  padding: 0px;
 }
 table td {
   text-align: left;
   padding: 10px;
+  line-height: 20px;
 }
 .faq {
   font-size: 14px;
