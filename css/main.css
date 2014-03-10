@@ -25,6 +25,9 @@ strong {
 .navbar-bottom a:hover {
   color: #dd2300;
 }
+.col-md-6 {
+  width: 48%;
+}
 .navbar-bottom .navbar-btn {
   color: #000;
 }
@@ -115,7 +118,7 @@ body {
 }
 .about .big {
   font-family: 'ubuntu', sans-serif;
-  font-size: inherit;
+  font-size: 26px;
   color: #dd2300;
   font-weight: bold;
 }
@@ -144,6 +147,9 @@ table td {
   text-align: left;
   padding: 10px;
 }
+.faq {
+  font-size: 14px;
+}
 .wrapper {
   width: 80%;
   background-color: white;
@@ -158,6 +164,10 @@ table td {
 }
 .nav-right {
   text-align: right;
+}
+.sponsor-logo img {
+  width: 300px;
+  height: auto;
 }
 .logo {
   float: left;
@@ -195,6 +205,7 @@ table td {
 #ssb-logo {
   width: 324px;
   height: auto;
+  margin-left: -10px;
 }
 a {
   text-decoration: none;
@@ -220,7 +231,7 @@ a:hover {
   margin-right: auto;
   display: inline-block;
 }
-.sponsors img {
+.hover-color img {
   opacity: 0.5;
   filter: alpha(opacity=50);
   vertical-align: middle;
@@ -231,7 +242,7 @@ a:hover {
   filter: gray;
   -webkit-filter: grayscale(1);
 }
-.sponsors img:hover {
+.hover-color img:hover {
   filter: none;
   opacity: 1;
   -webkit-filter: grayscale(0%);
