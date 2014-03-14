@@ -1,6 +1,40 @@
 strong {
   color: #0047ab;
 }
+.register-select {
+  width: 60%;
+  font-weight: 900;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.register-select .details {
+  margin-top: 2px;
+  color: #aaa;
+  font-size: 10px;
+}
+.student-select {
+  padding-top: 10%;
+  width: 48%;
+  height: 100px;
+  background-color: #ff3711;
+  display: inline-block;
+}
+.student-select:hover {
+  text-decoration: underline;
+  border: 2px solid #dd2300;
+}
+.industry-select {
+  padding-top: 10%;
+  width: 48%;
+  height: 100px;
+  background-color: #699bc4;
+  display: inline-block;
+}
+.industry-select:hover {
+  text-decoration: underline;
+  border: 2px solid #4682b4;
+}
 .section-divider {
   text-align: center;
   padding-top: 60px;
