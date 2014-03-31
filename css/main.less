@@ -5,6 +5,15 @@
 strong{
 	color: @accent;
 }
+@media (max-width: 980px) {
+        /* Enable use of floated navbar text */
+    .navbar-text.pull-right {
+      float: none;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+      
 .register-select{
 	width: 60%;
 	font-weight: 900;
@@ -205,9 +214,10 @@ table{
 	text-align: right;
 }
 .sponsor-logo{
+	width: 250px;
 	img{
-		width: 300px;
-		height:auto;
+		width: 100%;
+		height: auto;
 	}
 }
 .logo{
