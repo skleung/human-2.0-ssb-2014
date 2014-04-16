@@ -18,4 +18,5 @@ $(document).ready(function(){
 		//goto that anchor by setting the body scroll top to anchor top
 		$('html, body').animate({scrollTop: target_top}, 400);
 	});
+
 });
